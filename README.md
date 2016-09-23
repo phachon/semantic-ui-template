@@ -10,6 +10,7 @@
 ssh:git@github.com:phachon/semantic-ui-template.git
 http:https://github.com/phachon/semantic-ui-template.git
 ##目录说明
+resource 目录存放主要的 css,js 文件
 
 - css
    semantic.css semantic.min.css
