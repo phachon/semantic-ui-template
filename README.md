@@ -7,8 +7,8 @@
 很少有一些用 SU 写的界面模板，所以开了个项目，希望有兴趣的同学可以一同提交。
 
 ##下载
-ssh:git@github.com:phachon/semantic-ui-template.git
-http:https://github.com/phachon/semantic-ui-template.git
+- ssh方式： git@github.com:phachon/semantic-ui-template.git
+- http方式：https://github.com/phachon/semantic-ui-template.git
 ##目录说明
 resource 目录存放主要的 css,js 文件
 
